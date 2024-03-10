@@ -1,2 +1,2 @@
 # this is a test repo
-For guvi sessions
+For _guvi_ sessions
